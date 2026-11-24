@@ -12,6 +12,13 @@ Diff against Morris inorder (#107) and exactly one line moves: the visit. Inorde
 
 **Complexity:** O(n) time, O(1) space.
 
+## Visual walkthrough
+
+Read the picture top to bottom — each numbered frame is one moment of the algorithm
+running on this repo's test example.
+
+![Step-by-step visual walkthrough](viz.svg)
+
 ## Run
 
     go test ./...   # verify
